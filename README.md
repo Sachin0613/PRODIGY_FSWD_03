@@ -1,7 +1,8 @@
 # Smart Store
 
 Smart Store is a React TypeScript e-commerce application with a responsive design. This application allows users to browse and purchase products, manage their cart, and proceed to checkout.
-![TASK_3](https://github.com/user-attachments/assets/5b109d39-92b4-443f-912b-db15b29abded)
+![TASK_3](https://github.com/user-attachments/assets/471cf67a-815e-4e18-97a5-d0ec1f4822b2)
+
 
 ## Features
 
