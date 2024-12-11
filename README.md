@@ -4,6 +4,29 @@ Smart Store is a React TypeScript e-commerce application with a responsive desig
 ![TASK_3](https://github.com/user-attachments/assets/471cf67a-815e-4e18-97a5-d0ec1f4822b2)
 
 
+𝐇𝐨𝐦𝐞 𝐏𝐚𝐠𝐞 :
+• A clean layout displaying featured products, likely from various categories such as electronics, clothing, and more.
+•Navigation options on the left sidebar for filtering products by categories or price range.
+•Featured products are shown with their images, names, and prices, allowing users to quickly browse and add items to their cart.
+
+𝐂𝐚𝐫𝐭 𝐏𝐚𝐠𝐞:
+•A dedicated shopping cart view showing items added by the user.
+•Displays the product name, quantity, price, and a total at the bottom.
+•Includes an option to adjust quantities or remove products and a button to proceed to checkout.
+
+𝐂𝐡𝐞𝐜𝐤𝐨𝐮𝐭 𝐏𝐚𝐠𝐞:
+•A form for completing the purchase process.
+Includes an order summary with the product list and total cost.
+•A section to enter shipping details (name, address, city, state, ZIP code, and country).
+•A payment information section for credit card details (card number, expiry date, CVV).
+•A button to finalize the payment and complete the purchase.
+
+𝐅𝐨𝐨𝐭𝐞𝐫 𝐒𝐞𝐜𝐭𝐢𝐨𝐧:
+•A footer with additional navigation options and links.
+•Sections for customer service, legal policies, and company information.
+•Likely includes links to support, terms and conditions, and other relevant •pages.
+
+
 ## Features
 
 - Product listing with categories
