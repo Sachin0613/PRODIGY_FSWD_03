@@ -5,6 +5,7 @@ Smart Store is a React TypeScript e-commerce application with a responsive desig
 
 
 𝐇𝐨𝐦𝐞 𝐏𝐚𝐠𝐞 :
+
 • A clean layout displaying featured products, likely from various categories such as electronics, clothing, and more.
 
 •Navigation options on the left sidebar for filtering products by categories or price range.
@@ -13,6 +14,7 @@ Smart Store is a React TypeScript e-commerce application with a responsive desig
 
 
 𝐂𝐚𝐫𝐭 𝐏𝐚𝐠𝐞:
+
 •A dedicated shopping cart view showing items added by the user.
 
 •Displays the product name, quantity, price, and a total at the bottom.
@@ -21,6 +23,7 @@ Smart Store is a React TypeScript e-commerce application with a responsive desig
 
 
 𝐂𝐡𝐞𝐜𝐤𝐨𝐮𝐭 𝐏𝐚𝐠𝐞:
+
 •A form for completing the purchase process.
 
 Includes an order summary with the product list and total cost.
@@ -33,6 +36,7 @@ Includes an order summary with the product list and total cost.
 
 
 𝐅𝐨𝐨𝐭𝐞𝐫 𝐒𝐞𝐜𝐭𝐢𝐨𝐧:
+
 •A footer with additional navigation options and links.
 
 •Sections for customer service, legal policies, and company information.
